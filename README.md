@@ -87,4 +87,4 @@ Students with higher study hours and better previous scores are more likely to p
 ## 👨‍💻 Author
 
 **Aadarsh Shukla**  
-(**Decision Tree**) 🚀
+(**Data Scientist**) 🚀
